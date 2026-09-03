@@ -1,0 +1,6 @@
+[submodule "ProyectAntilow"]
+	path = ProyectAntilow
+	url = https://github.com/Softwareheee/ProyectAntilow.git
+[submodule "AntilowFront"]
+	path = AntilowFront
+	url = https://github.com/Softwareheee/AntilowFront.git
